@@ -13,7 +13,7 @@ For the final project in this course, you will develop algorithms that identify 
 
 This is an advanced course, intended for learners with a background in computer vision and deep learning. To succeed in this course, you should have programming experience in Python 3.0, and familiarity with Linear Algebra (matrices, vectors, matrix multiplication, rank, Eigenvalues and vectors and inverses).
 
-![Alt text](Images/lane detection.PNG?raw=true "Lane detection")
+![Alt text](Images/lanedetection.PNG?raw=true "Lane detection")
 
 ![Alt text](Images/ttc.PNG?raw=true "Time to Collision")
 
